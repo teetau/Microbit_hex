@@ -2,4 +2,8 @@
 
 ## The collection
 
-This is a collection of *Micro:bit* codes, both .hex and .py
+This is a collection of *Micro:bit* codes.
+
+Folders
+  **py** 
+  **hex**
