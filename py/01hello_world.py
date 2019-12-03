@@ -1,5 +1,5 @@
 # 01hello_world.py
-# ensimmäinen koodi
+# tuodaan kirjasto
 from microbit import *
 # kirjoitetaan vaikka Hello world !
 display.scroll("Hello world!")
