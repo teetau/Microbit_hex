@@ -1,13 +1,13 @@
 # Micro:bit
 
-## The collection
+## Turku koodaa
 
-This is a collection of *Micro:bit* codes.
+Tarkoitettu *Micro:bit* projektin tukikohdaksi.
 
-Folders
+Kansiot:
 
-  **py** 
+  * hex - Makecode, visuaaliset koodit (alakoulu/yläkoulu)
   
-  **hex**
-  
+  * Py - Micropythonilla tehhdyt tekstipohjaiset koodit (yläkoulu pääsääntöisesti, miksei myös alakouluun ?)
  
+Tarkemmat ohjeet löytyvät kansioista.
