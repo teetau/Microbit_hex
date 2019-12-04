@@ -18,5 +18,5 @@ Koodit on jaettu neljään kokonaisuuteen. Ne vaikeutuvat asteittain siten että
 4. kokonaisuus
 
 * Otetaan käyttöön Micro:bitin radio ja tuodaan sillä lisää toiminnallisuutta jo opittuihin asioihin.
-* Uutena asiana otetaan mukaan lista (array).
+* Toinen uusi asia on lista (array).
 * Tehdään omia yksinkertaisia pelejä.
