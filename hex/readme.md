@@ -10,5 +10,12 @@ Tähän ohjeet koodipätkien käytöstä.
 
 * Ohjelmoinnilliset asiat: muuttuja, satunnaisluku, toistolause (for), ledien koordinaatit (x,y). ledin sytytys/sammutus, ehtolause (if, while), syöte (kallistus, kiihtyvyys)
 
-3. valmennus
-4. valmennus
+3. kokonaisuus
+
+* Yhdistellään jo opittuja rakenteita toimiviksi kokonaisuuksiksi.
+* Tehdään mm. askelmittari, kertolaskukone, huijaava noppa ja herkkä tasapainolauta
+
+4. kokonaisuus
+
+* Otetaan käyttöön Micro:bitin radio ja tuodaan sillä lisää toiminnallisuutta jo opittuihin asioihin.
+* Tehdään omia yksinkertaisia pelejä.
