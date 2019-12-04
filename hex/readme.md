@@ -1,6 +1,8 @@
-# Tuntisetit
+# Makecode
 
-Koodit on jaettu neljään kokonaisuuteen. Ne vaikeutuvat asteittain siten että 1-2 opetellaan uusia rakenteita ja 3-4 yhdistellään ja sovelletaan jo opittua.
+## Tuntisetit
+
+Koodit on jaettu neljään kokonaisuuteen. Ne vaikeutuvat asteittain siten että 1-2 opetellaan uusia rakenteita ja 3-4 yhdistellään ja sovelletaan jo opittua. Voit ladata **.hex**-tiedostot itsellesi kokonaisuus / kaikki kerrallaan talteen. Käytä niitä tarkistus- tai neuvontavaiheessa. **Älä** jaa niitä oppilaille.
 
 1. kokonaisuus
 
