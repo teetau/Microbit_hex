@@ -22,3 +22,5 @@ Koodit on jaettu neljään kokonaisuuteen. Ne vaikeutuvat asteittain siten että
 * Otetaan käyttöön Micro:bitin radio ja tuodaan sillä lisää toiminnallisuutta jo opittuihin asioihin.
 * Toinen uusi asia on lista (array).
 * Tehdään omia yksinkertaisia pelejä.
+
+**TOP-keskuksen** koodiviikolla julkaistua materiaalia: https://edu.turku.fi/?s=koodiviikko, josta löytyy ohjeita samoihin tehtäviin.
