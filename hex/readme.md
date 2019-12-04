@@ -1,6 +1,6 @@
-# otsikko
+# Tuntisetit
 
-Tähän ohjeet koodipätkien käytöstä.
+Koodit on jaettu neljään kokonaisuuteen. Ne vaikeutuvat asteittain siten että 1-2 opetellaan uusia rakenteita ja 3-4 yhdistellään ja sovelletaan jo opittua.
 
 1. kokonaisuus
 
