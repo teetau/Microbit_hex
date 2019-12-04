@@ -4,7 +4,7 @@ Tähän ohjeet koodipätkien käytöstä.
 
 1. kokonaisuus
 
-* Ohjelmoinnilliset asiat: syöte (napin painallus, lämpötila, valotaso), näytä numero, näytä merkkijono, näytä kuvake, tauko, käynnistettäessä, ikuisesti-silmukka
+* Ohjelmoinnilliset asiat: syöte (napin painallus, ravistus, lämpötila, valotaso), näytä numero, näytä merkkijono, näytä kuvake, tauko, käynnistettäessä, ikuisesti-silmukka
   
 2. kokonaisuus
 
