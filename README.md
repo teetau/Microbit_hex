@@ -8,6 +8,6 @@ Kansiot:
 
   * hex - Makecode, visuaaliset koodit (alakoulu/yläkoulu)
   
-  * Py - Micropythonilla tehhdyt tekstipohjaiset koodit (yläkoulu pääsääntöisesti, miksei myös alakouluun ?)
+  * Py - Micropythonilla tehdyt tekstipohjaiset koodit (yläkoulu pääsääntöisesti, miksei myös alakouluun ?)
  
 Tarkemmat ohjeet löytyvät kansioista.
