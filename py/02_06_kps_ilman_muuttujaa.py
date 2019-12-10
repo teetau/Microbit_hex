@@ -1,4 +1,4 @@
-# 02_05_kps_ilman_muuttujaa.py
+# 02_06_kps_ilman_muuttujaa.py
 from microbit import *
 import random
 
