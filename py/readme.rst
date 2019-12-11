@@ -17,7 +17,7 @@ Ohjelmoinnilliset asiat mm.:
 * ``display.scroll``
 * ``display.show``
 * tauko
-* ``random`` - satunnaisuus - testi
+* ``random`` - satunnaisuus
 * ``ikuisesti``-silmukka 
 
 2. kokonaisuus
