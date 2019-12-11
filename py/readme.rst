@@ -5,7 +5,9 @@ Tuntisetit
 ----------
 
 
-Koodit on jaettu neljään kokonaisuuteen. Ne vaikeutuvat asteittain siten että 1-2 opetellaan uusia rakenteita ja 3-4 yhdistellään ja sovelletaan jo opittua. Voit ladata **.py**-tiedostot itsellesi kokonaisuus / kaikki kerrallaan talteen. Käytä niitä tarkistus- tai neuvontavaiheessa. Älä jaa niitä oppilaille.
+``Micropython`` ohjelmat ovat käytännössä samoja kuin ``hex``-koodit. Pieniä toiminnallisia eroja saattaa olla. 
+
+Ne vaikeutuvat asteittain siten että 1-2 opetellaan uusia rakenteita ja 3-4 yhdistellään ja sovelletaan jo opittua. Voit ladata **.py**-tiedostot itsellesi kokonaisuus / kaikki kerrallaan talteen. Käytä niitä tarkistus- tai neuvontavaiheessa. Älä jaa niitä oppilaille.
 
 1. kokonaisuus
 
@@ -23,5 +25,5 @@ Tehdään mm. askelmittari, kertolaskukone, huijaava noppa ja herkkä tasapainol
 4. kokonaisuus
 
 Otetaan käyttöön Micro:bitin radio ja tuodaan sillä lisää toiminnallisuutta jo opittuihin asioihin.
-Toinen uusi asia on lista (array).
+Toinen uusi asia on lista ``array``.
 Tehdään omia yksinkertaisia pelejä.
