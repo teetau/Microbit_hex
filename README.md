@@ -1,13 +1,13 @@
 # Micro:bit
 
-## Turku koodaa
+## Ohjelmointia Micro:bitillä
 
-Tarkoitettu *Micro:bit* projektin tukikohdaksi.
+Turun kaupungin ohjelmoinnin opetuksen projekti kevään 2020 aikana. 
 
 Kansiot:
 
-  * hex - Makecode, visuaaliset koodit (alakoulu/yläkoulu)
+  * hex - Makecode, visuaaliset koodit 
   
-  * Py - Micropythonilla tehdyt tekstipohjaiset koodit (yläkoulu pääsääntöisesti, miksei myös alakouluun ?)
+  * Py - Micropython koodit
  
-Tarkemmat ohjeet löytyvät kansioista.
+
