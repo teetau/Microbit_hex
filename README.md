@@ -10,4 +10,7 @@ Kansiot:
   
   * Py - Micropython koodit
  
+ Tiedostojen lataus:
+ 
+ nappi: **Clone or download** lataa koko hakemiston. Tee etukäteen kansio, jonne lataa Zip-tiedoston ja pura tiedosto sinne. Näin saat kaikki tiedostot kerralla itsellesi. Yksittäisiä tiedostoja ei voi ladata.
 
