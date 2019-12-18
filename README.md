@@ -8,7 +8,10 @@ Kansiot:
 
   * hex - Makecode, visuaaliset koodit 
   
- 
+Tiedostot:
+
+* microbit_koodauskortit(A4).pdf - tulostettavia pelikortin kokoisia tehtäväkortteja, joita voi käyttää tunnilla apuna. Vihreä - helppo, keltainen - keskivaikea, sininen - edistynyt.
+
  Tiedostojen lataus:
  
  *nappi*: **Clone or download** lataa koko hakemiston. Tee etukäteen kansio, jonne lataat Zip-tiedoston ja pura tiedosto sinne. Näin saat kaikki tiedostot kerralla itsellesi. 
