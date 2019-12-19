@@ -11,7 +11,7 @@ Kansiot:
 Tiedostot:
 
 * microbit_koodauskortit(A4).pdf - tulostettavia pelikortin kokoisia tehtäväkortteja, joita voi käyttää tunnilla apuna. 
-  * Vihreä - helppo
+  * vihreä - helppo
   * keltainen - keskivaikea
   * sininen - edistynyt
 
