@@ -17,7 +17,7 @@ Tiedostot:
 
 Tiedostojen lataus:
  
-*Nappi*: **Clone or download** lataa koko hakemiston. Tee etukäteen kansio, jonne lataat Zip-tiedoston ja pura tiedosto sinne. Näin saat kaikki tiedostot kerralla itsellesi. 
+*Vihreä nappi*: **Clone or download** lataa koko hakemiston. Tee etukäteen kansio, jonne lataat Zip-tiedoston ja pura tiedosto sinne. Näin saat kaikki tiedostot kerralla itsellesi. 
  
 **HUOM !** Yksittäisten tiedostojen lataus on vaikeampaa.
 
