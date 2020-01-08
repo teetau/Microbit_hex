@@ -10,6 +10,10 @@ Turun kaupungin ohjelmoinnin opetuksen projekti kevään 2020 aikana.
   
 #### Tiedostot:
 
+* License - voit ladata tiedostot ja muokata niitä ja käyttää opetuksessasi, kunhan mainitset lähteen
+
+* Readme - tämä tiedosto
+
 * hex-ohje.docx - hex-koodit purettuina (mm. mitä lohkoja) ja hieman selitetty mitä ohjelma tekee
 
 * microbit-pikaohje.docx - ohjeet tiedostojen tekemiseen ja lataamiseen Micro:bitille
