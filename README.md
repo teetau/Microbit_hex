@@ -29,3 +29,5 @@ Turun kaupungin ohjelmoinnin opetuksen projekti kevään 2020 aikana.
  
 **HUOM !** Yksittäisten tiedostojen lataus on vaikeampaa.
 
+**Micro:bitin ohjelmiston päivittäminen** https://microbit.org/fi/guide/firmware/ 
+
